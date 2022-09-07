@@ -1,5 +1,5 @@
 {
-  "name": "coming_soon_page",
+  "name": "coming-soon-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@seregpie/three.text-sprite": "^3.2.0",
+    "bootstrap-icons": "^1.9.1",
+    "gsap": "^3.11.1",
+    "three": "^0.144.0",
     "vite": "^3.1.0"
   }
 }
